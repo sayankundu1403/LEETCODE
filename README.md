@@ -10,6 +10,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sayankundu1403/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sayankundu1403/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sayankundu1403/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sayankundu1403/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -41,6 +44,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sayankundu1403/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -58,6 +62,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sayankundu1403/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sayankundu1403/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
