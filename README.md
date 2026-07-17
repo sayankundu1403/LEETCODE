@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sayankundu1403/LEETCODE/tree/master/0036-valid-sudoku) |
 | [1288-remove-covered-intervals](https://github.com/sayankundu1403/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sayankundu1403/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sayankundu1403/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sayankundu1403/LEETCODE/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/sayankundu1403/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sayankundu1403/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sayankundu1403/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -65,6 +67,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sayankundu1403/LEETCODE/tree/master/0036-valid-sudoku) |
 | [1301-number-of-paths-with-max-score](https://github.com/sayankundu1403/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
