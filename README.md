@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/sayankundu1403/LEETCODE/tree/master/0038-count-and-say) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sayankundu1403/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sayankundu1403/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sayankundu1403/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
