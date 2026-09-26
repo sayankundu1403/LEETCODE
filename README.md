@@ -19,6 +19,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sayankundu1403/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/sayankundu1403/LEETCODE/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayankundu1403/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayankundu1403/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/sayankundu1403/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sayankundu1403/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sayankundu1403/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -52,6 +53,7 @@
 | [1096-brace-expansion-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sayankundu1403/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayankundu1403/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayankundu1403/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/sayankundu1403/LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sayankundu1403/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sayankundu1403/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -77,6 +79,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sayankundu1403/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayankundu1403/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayankundu1403/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayankundu1403/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sayankundu1403/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sayankundu1403/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
