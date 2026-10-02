@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sayankundu1403/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sayankundu1403/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sayankundu1403/LEETCODE/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/sayankundu1403/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
@@ -164,6 +165,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sayankundu1403/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sayankundu1403/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/sayankundu1403/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sayankundu1403/LEETCODE/tree/master/0877-stone-game) |
@@ -327,6 +329,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sayankundu1403/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sayankundu1403/LEETCODE/tree/master/0037-sudoku-solver) |
 | [1096-brace-expansion-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -400,6 +403,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sayankundu1403/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sayankundu1403/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sayankundu1403/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayankundu1403/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sayankundu1403/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
