@@ -49,6 +49,7 @@
 | [3731-find-missing-elements](https://github.com/sayankundu1403/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sayankundu1403/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sayankundu1403/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -228,6 +229,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sayankundu1403/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sayankundu1403/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sayankundu1403/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/sayankundu1403/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sayankundu1403/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sayankundu1403/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sayankundu1403/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sayankundu1403/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/sayankundu1403/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
