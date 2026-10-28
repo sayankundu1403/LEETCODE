@@ -51,6 +51,7 @@
 | [3731-find-missing-elements](https://github.com/sayankundu1403/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sayankundu1403/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/sayankundu1403/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sayankundu1403/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -170,6 +171,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sayankundu1403/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sayankundu1403/LEETCODE/tree/master/3620-network-recovery-pathways) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -314,6 +317,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sayankundu1403/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
