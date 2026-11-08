@@ -15,6 +15,7 @@
 | [1140-stone-game-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/sayankundu1403/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/sayankundu1403/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/sayankundu1403/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sayankundu1403/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sayankundu1403/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +150,7 @@
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/sayankundu1403/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sayankundu1403/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sayankundu1403/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sayankundu1403/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sayankundu1403/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sayankundu1403/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sayankundu1403/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sayankundu1403/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -179,6 +182,7 @@
 | [0037-sudoku-solver](https://github.com/sayankundu1403/LEETCODE/tree/master/0037-sudoku-solver) |
 | [1254-number-of-closed-islands](https://github.com/sayankundu1403/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/sayankundu1403/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/sayankundu1403/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sayankundu1403/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -232,6 +236,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sayankundu1403/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sayankundu1403/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sayankundu1403/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sayankundu1403/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sayankundu1403/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -376,6 +381,7 @@
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/sayankundu1403/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/sayankundu1403/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sayankundu1403/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
