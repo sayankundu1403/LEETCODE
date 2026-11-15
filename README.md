@@ -22,6 +22,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sayankundu1403/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/sayankundu1403/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sayankundu1403/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayankundu1403/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sayankundu1403/LEETCODE/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayankundu1403/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayankundu1403/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -222,6 +223,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/sayankundu1403/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/sayankundu1403/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sayankundu1403/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayankundu1403/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sayankundu1403/LEETCODE/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayankundu1403/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sayankundu1403/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -283,6 +285,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/sayankundu1403/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/sayankundu1403/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sayankundu1403/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayankundu1403/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sayankundu1403/LEETCODE/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayankundu1403/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sayankundu1403/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -313,6 +316,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayankundu1403/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayankundu1403/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayankundu1403/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/sayankundu1403/LEETCODE/tree/master/1872-stone-game-viii) |
