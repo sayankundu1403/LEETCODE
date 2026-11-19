@@ -33,6 +33,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayankundu1403/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sayankundu1403/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sayankundu1403/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sayankundu1403/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sayankundu1403/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sayankundu1403/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -265,6 +266,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayankundu1403/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayankundu1403/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sayankundu1403/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sayankundu1403/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sayankundu1403/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -342,6 +344,7 @@
 | [1927-sum-game](https://github.com/sayankundu1403/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sayankundu1403/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sayankundu1403/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sayankundu1403/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sayankundu1403/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sayankundu1403/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
