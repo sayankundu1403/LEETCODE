@@ -90,6 +90,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayankundu1403/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/sayankundu1403/LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sayankundu1403/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sayankundu1403/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sayankundu1403/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sayankundu1403/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sayankundu1403/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
